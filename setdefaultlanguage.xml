@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9" type="plugin" group="system" method="upgrade">
+    <name>System - Set Default Language</name>
+    <author>Your Name</author>
+    <version>1.0.0</version>
+    <description>Sets the default language for new articles to 'All'.</description>
+    <files>
+        <filename plugin="setdefaultlanguage">setdefaultlanguage.php</filename>
+    </files>
+    <config />
+</extension>
